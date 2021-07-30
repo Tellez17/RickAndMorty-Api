@@ -21,7 +21,7 @@ Consumir la API de la siguiente URL https://rickandmortyapi.com/ para generar un
     * La pagina te mostrara las coincidencias encontradas.
     
   - Puedes hacer uso de la paginación usando los botones 1 al 6.
-    *Selecciona un botón y te mostrara los elementos que se encuentran en ese botón.
+    * Selecciona un botón y te mostrara los elementos que se encuentran en ese botón.
  
  4. Lenguajes utilizados.
 
