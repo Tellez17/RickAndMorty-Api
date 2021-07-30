@@ -1,0 +1,52 @@
+body {
+    background-color:black; 
+    color:white;
+}
+
+#searchForm{
+    display: flex;
+    justify-content: center;
+    margin-top: 10%;
+}
+
+input{
+    text-decoration: none;
+    text-align: center;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #ffffff;
+    background-color:aquamarine;
+    border-radius: 6px;
+    border: 2px solid purple;
+
+}
+
+#buttonContainer{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    display: 2px solid black;
+}
+
+.buttonPage{
+    
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #1883ba;
+    border-radius: 6px;
+    border: 2px solid #0016b0;
+  }
+
+  #app{
+      text-decoration: none;
+      list-style: none;
+      text-align: center;
+      padding: 10px;
+
+
+  }
+
