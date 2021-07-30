@@ -7,9 +7,9 @@ Consumir la API de la siguiente URL https://rickandmortyapi.com/ para generar un
 
 2. Objetivos del diseño.
 
-∙ Mostrar a los personajes y sus características incluyendo su imagen  
-∙ Aplicar paginación para mostrar por lo menos a 6 de ellos  
-∙ Aplicar filtros para búsquedas 
+- Mostrar a los personajes y sus características incluyendo su imagen  
+- Aplicar paginación para mostrar por lo menos a 6 de ellos  
+- Aplicar filtros para búsquedas 
 
 3. Instrucciones para ejecutar el proyecto. 
 
